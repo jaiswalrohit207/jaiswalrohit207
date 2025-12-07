@@ -4,7 +4,7 @@ I'm **Rohit Jaiswal**, a passionate Full-stack Developer with **5+ years** of ex
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Developer** specializing in Node.js & React
+- 💻 **Full-Stack Developer** specializing in Node.js
 - 🏗️ **System Design Enthusiast** - passionate about building scalable architectures
 - 📍 Based in **Bangalore, India**
 - 💡 Always learning and exploring new technologies
