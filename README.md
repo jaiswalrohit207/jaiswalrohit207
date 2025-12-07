@@ -6,8 +6,6 @@ I'm **Rohit Jaiswal**, a passionate Full-stack Developer with **5+ years** of ex
 
 - 💻 **Full-Stack Developer** specializing in Node.js & React
 - 🏗️ **System Design Enthusiast** - passionate about building scalable architectures
-- 📈 **Crypto Trader** - actively trading on Solana blockchain
-- 🎬 **Content Creator** - building YouTube channel for tech content in US/Canada
 - 📍 Based in **Bangalore, India**
 - 💡 Always learning and exploring new technologies
 
@@ -21,9 +19,7 @@ I'm **Rohit Jaiswal**, a passionate Full-stack Developer with **5+ years** of ex
 ## 📚 What I'm Working On
 
 - 🔨 Building scalable backend systems
-- 🎓 Creating technical content for aspiring developers
 - 🚀 Exploring blockchain and cryptocurrency technologies
-- 💼 Helping others with technical interview preparation
 
 ## 📊 GitHub Stats
 
@@ -32,7 +28,7 @@ Feel free to explore my repositories to see my projects and contributions!
 ## 🤝 Let's Connect
 
 - 📧 Email: jaiswalrohit207@gmail.com
-- 🌐 Portfolio: [rohitjaiswal.dev](https://rohitjaiswal.dev)
+- 🌐 Portfolio: [rohitjaiswal.dev](https://jaiswalrohit207.github.io/rohitj/)
 - 💼 Open to collaborations and interesting projects
 
 ---
