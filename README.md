@@ -28,8 +28,7 @@ Feel free to explore my repositories to see my projects and contributions!
 ## 🤝 Let's Connect
 
 - 📧 Email: jaiswalrohit207@gmail.com
-- 🌐 Portfolio: [Resume - Download PDF](https://raw.githubusercontent.com/jaiswalrohit207/jaiswalrohit207/main/Rohit_Jaiswal_Nodejs.pdf)
-- 💼 Open to collaborations and interesting projects
+- 🌐 Portfolio: [Resume - Download PDF](https://github.com/jaiswalrohit207/jaiswalrohit207/blob/main/Rohit_Jaiswal_Nodejs.pdf)- 💼 Open to collaborations and interesting projects
 
 ---
 
