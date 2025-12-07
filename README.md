@@ -1,19 +1,18 @@
 # Hey there! 👋 Welcome to my GitHub
 
-I'm **Rohit Jaiswal**, a passionate Full-stack Developer with **5+ years** of experience building scalable applications and architecting complex systems.
+I'm **Rohit Jaiswal**, a passionate Backend Developer with **7+ years** of experience building scalable applications and architecting complex systems.
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Developer** specializing in Node.js
+- 💻 **Back End Developer** specializing in Node.js and JavaScript
 - 🏗️ **System Design Enthusiast** - passionate about building scalable architectures
 - 📍 Based in **Bangalore, India**
 - 💡 Always learning and exploring new technologies
 
 ## 🛠️ Tech Stack
 
-**Backend:** Node.js, Express, PostgreSQL, MongoDB, Docker, Kubernetes
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3
-**Tools & Platforms:** Git, GitHub, AWS, Docker, Kubernetes
+**Backend:** Node.js, JavaScript, Express, Mysql, Redis, Docker, Kubernetes
+**Tools & Platforms:** Git, GitHub, Docker, Kubernetes, Visual Studio Code, Postman,  
 **Specialties:** RESTful APIs, Microservices, System Architecture, Database Design
 
 ## 📚 What I'm Working On
