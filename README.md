@@ -12,6 +12,7 @@ I'm **Rohit Jaiswal**, a passionate Backend Developer with **7+ years** of exper
 ## 🛠️ Tech Stack
 
 **Backend:** Node.js, JavaScript, Express, Mysql, Redis, Docker, Kubernetes
+
 **Tools & Platforms:** Git, GitHub, Docker, Kubernetes, Visual Studio Code, Postman,  
 **Specialties:** RESTful APIs, Microservices, System Architecture, Database Design
 
